@@ -1,0 +1,3 @@
+- source Documents/tactile-internet/Tactile_E-commerce_Website/bin/activate
+- Com o ambiente ativado, você pode rodar seu script normalmente: python experiment.py
+- deactivate

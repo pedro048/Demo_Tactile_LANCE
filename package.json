@@ -1,0 +1,31 @@
+{
+  "name": "back-end",
+  "version": "1.0.0",
+  "description": "It is a tactile e-commerce website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@serialport/parser-readline": "^10.5.0",
+    "body-parser": "^1.20.1",
+    "bootstrap": "^5.2.1",
+    "bootstrap-icons": "^1.9.1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "install": "^0.13.0",
+    "jquery": "^3.6.1",
+    "live-server": "^1.2.2",
+    "mongodb": "^5.0.1",
+    "mongoose": "^6.9.2",
+    "mouse-speed": "^2.0.1",
+    "nodemon": "^2.0.20",
+    "npm": "^8.19.2",
+    "popper.js": "^1.16.1",
+    "serialport": "^10.5.0",
+    "socket.io": "^4.6.0"
+  }
+}
